@@ -5,7 +5,7 @@
     "require": {
         "php": ">=7.4",
         "guzzlehttp/guzzle": ">=7.0",
-        "textalk/websocket": ">=1.6.1"
+        "textalk/websocket": ">=1.5.3"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.0"
