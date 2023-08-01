@@ -40,13 +40,8 @@ You can install the library via Composer. Add the following to your `composer.js
 
 
 
-```json
-{
-"name": "your_vendor/your_project",
-  "require": {
-    "tallesairan/oobapi-php": "dev-master"
-  }
-}
+```bash
+composer require tallesairan/oobapi-php
 ```
 
 
